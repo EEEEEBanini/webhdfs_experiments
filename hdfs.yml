@@ -1,0 +1,4 @@
+# host: pophdevapp54
+host: pophdevhadoopmstr01.northamerica.cerner.net
+port: 50070
+username: webhdfs-ruby-nb4843
